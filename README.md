@@ -159,15 +159,3 @@ Please provide the fully updated code and explain where the localStorage logic i
 - Load state saat `DOMContentLoaded`
 - Conditional rendering berdasarkan level/state
 
----
-
-## 💡 Tips untuk Instruktur
-
-- Minta mahasiswa menjalankan setiap iterasi secara mandiri sebelum melihat solusi.
-- Diskusikan mengapa **state management** penting bahkan di aplikasi kecil sekalipun.
-- Iterasi 3 adalah titik kritis — dorong mahasiswa untuk memikirkan *"bagaimana user bisa menyalahgunakan aplikasi ini?"*
-- Iterasi 4 membuka diskusi tentang **keamanan client-side storage** vs **server-side storage**.
-
----
-
-*Dibuat untuk keperluan pembelajaran pemrograman web interaktif.*
